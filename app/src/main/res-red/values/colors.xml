@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary_red">#ff69b4</color>
+    <color name="colorPrimaryDark_red">#ff6347</color>
+    <color name="colorAccent_red">#ff4500</color>
+    <color name="colorToolbarTitle_red">#fff</color>
+    <color name="colorAppBg_red">#fff</color>
+</resources>

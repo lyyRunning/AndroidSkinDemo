@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary_yellow">#ffff00</color>
+    <color name="colorPrimaryDark_yellow">#f5deb3</color>
+    <color name="colorAccent_yellow">#ffff00</color>
+    <color name="colorToolbarTitle_yellow">#fff</color>
+    <color name="colorAppBg_yellow">#fff</color>
+</resources>
